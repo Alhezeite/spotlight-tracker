@@ -1,0 +1,26 @@
+{
+  "id": "spotlight-tracker",
+  "title": "Spotlight Tracker",
+  "version": "1.0.0",
+  "scripts": ["scripts/spotlight-tracker.js"],  
+  "authors": [
+      {
+      "name": "NOTLex & ChatGpt"
+      }
+  ],
+  "languages": [
+    {
+      "lang": "ru",
+      "name": "Русский",
+      "path": "lang/ru.json"
+    }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "flags": {
+    "canUpload": true
+  },
+  "description": "Трекинг токенов действия для системы Daggerheart."
+}
