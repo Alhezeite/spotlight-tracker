@@ -2,7 +2,10 @@
   "id": "spotlight-tracker",
   "title": "Spotlight Tracker",
   "version": "1.0.0",
-  "scripts": ["scripts/spotlight-tracker.js"],  
+  "scripts": [
+    "https://code.jquery.com/ui/1.13.2/jquery-ui.min.js",
+    "scripts/spotlight-tracker.js"      
+  ],  
   "authors": [
       {
       "name": "NOTLex & ChatGpt"
